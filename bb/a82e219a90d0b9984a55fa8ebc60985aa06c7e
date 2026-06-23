@@ -1,0 +1,24 @@
+tests/c/c_VersionTest.cc
+  s_e7a1be33d54909::t_d07ca345c837b8 1-26
+lib/c/c_Version.cc
+  s_e7a1be33d54909::t_747a07c475c7b7 1-24
+include/pulsar/c/version.h
+  s_e7a1be33d54909::t_747a07c475c7b7 23-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "bba82e219a90d0b9984a55fa8ebc60985aa06c7e",
+  "prompts": {},
+  "logical_commit_id": "bba82e219a90d0b9984a55fa8ebc60985aa06c7e",
+  "sessions": {
+    "s_e7a1be33d54909": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef32e-6dec-73d1-b071-b2059037a395",
+        "model": "gpt-5.5"
+      },
+      "human_author": "zhangzhibiao <zhangzhibiao@bigo.sg>"
+    }
+  }
+}
