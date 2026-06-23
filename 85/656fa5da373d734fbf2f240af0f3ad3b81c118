@@ -1,0 +1,33 @@
+include/pulsar/SameAuthParamsLookupAutoClusterFailover.h
+  s_e7a1be33d54909::t_9dd7e56711a88d 52
+  s_e7a1be33d54909::t_6395cae3f8b3c8 75-76
+  s_e7a1be33d54909::t_dbd426b40d02d2 1-51,53-74,77-85
+include/pulsar/ClientConfiguration.h
+  s_e7a1be33d54909::t_dbd426b40d02d2 370
+tests/ServiceInfoProviderTest.cc
+  s_e7a1be33d54909::t_c98a306fb141a6 358-365,367
+  s_e7a1be33d54909::t_2351f3c9f92bfc 22,313-315,318-330,333-340,349-356
+  s_e7a1be33d54909::t_9dd7e56711a88d 316-317,331-332,341-348
+lib/SameAuthParamsLookupAutoClusterFailover.cc
+  s_e7a1be33d54909::t_a7d2fa798b8690 22,26,29
+  s_e7a1be33d54909::t_9dd7e56711a88d 64,68,90-91,257-258,362
+  s_e7a1be33d54909::t_6d685a49e14e5e 1-21,23-25,27-28,30-63,65-67,69-89,92-108,112-256,259-361,363-385
+  s_e7a1be33d54909::t_f1f8141d3398d3 109-111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "85656fa5da373d734fbf2f240af0f3ad3b81c118",
+  "prompts": {},
+  "logical_commit_id": "85656fa5da373d734fbf2f240af0f3ad3b81c118",
+  "sessions": {
+    "s_e7a1be33d54909": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef32e-6dec-73d1-b071-b2059037a395",
+        "model": "gpt-5.5"
+      },
+      "human_author": "zhangzhibiao <zhangzhibiao@bigo.sg>"
+    }
+  }
+}
