@@ -1,0 +1,25 @@
+include/pulsar/AutoClusterFailover.h
+  s_e7a1be33d54909::t_e52ea6ae7e68c7 87,96,104,114,133-143,147-148
+  s_e7a1be33d54909::t_b5c5bab319e316 24,45,59-60,67-70,77,80,84-86,88-95,97,99-102,106,112,116,123-124,126-132,144-145
+  s_e7a1be33d54909::t_44c18cf1795d77 41-43,98,125
+tests/ServiceInfoProviderTest.cc
+  s_e7a1be33d54909::t_4c5175b0af2702 174-185,194-199,202-203,206-207
+  s_e7a1be33d54909::t_f10c8854fc3563 186-193,200-201,204-205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "9fd5189bb42af278d01e922686d65fd383e53485",
+  "prompts": {},
+  "logical_commit_id": "9fd5189bb42af278d01e922686d65fd383e53485",
+  "sessions": {
+    "s_e7a1be33d54909": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef32e-6dec-73d1-b071-b2059037a395",
+        "model": "gpt-5.5"
+      },
+      "human_author": "zhangzhibiao <zhangzhibiao@bigo.sg>"
+    }
+  }
+}
