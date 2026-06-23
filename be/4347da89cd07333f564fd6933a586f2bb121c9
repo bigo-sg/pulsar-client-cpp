@@ -1,0 +1,20 @@
+CMakeLists.txt
+  s_e7a1be33d54909::t_897ed817ab116b 55-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "be4347da89cd07333f564fd6933a586f2bb121c9",
+  "prompts": {},
+  "logical_commit_id": "be4347da89cd07333f564fd6933a586f2bb121c9",
+  "sessions": {
+    "s_e7a1be33d54909": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef32e-6dec-73d1-b071-b2059037a395",
+        "model": "gpt-5.5"
+      },
+      "human_author": "zhangzhibiao <zhangzhibiao@bigo.sg>"
+    }
+  }
+}
